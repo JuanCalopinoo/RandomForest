@@ -27,22 +27,17 @@ $$\hat{y} = \frac{1}{B} \sum_{b=1}^{B} h_b(x)$$
 ---
 
 ## 🗂️ Organización del Repositorio (Componentes Académicos)
-El código, las tareas y la documentación se estructuran rigurosamente de acuerdo con los componentes curriculares de la asignatura:
+El código, las tareas y la documentación se estructuran rigurosamente de acuerdo con los componentes curriculares de la asignatura, cuyos accesos directos se detallan a continuación:
 
-### 🏛️ 1. ACD: Aprendizaje en Contacto con el Docente (Clases y Laboratorios)
+### 🏛️ 1. [ACD: Aprendizaje en Contacto con el Docente (Clases y Laboratorios)](https://github.com/JuanCalopinoo/RandomForest/tree/8036820bf384160ceb073610eec8a085e473ec90/ACD)
 Desarrollo de las sesiones presenciales y guías asistidas orientadas a la fundamentación de algoritmos supervisados.
-* `📁 labs/`: Implementaciones guiadas en el aula de modelos base (Naïve Bayes, KNN, SVM, árboles CART).
-* `📁 notebooks/`: Cuadernos interactivos con visualización de fronteras de decisión ortogonales compartidos durante la clase.
 
-### 🔬 2. APE: Aprendizaje Práctico-Experimental (Deberes y Optimización)
+
+### 🔬 2. [APE: Aprendizaje Práctico-Experimental (Deberes y Optimización)](https://github.com/JuanCalopinoo/RandomForest/tree/8036820bf384160ceb073610eec8a085e473ec90/APE)
 Componente de experimentación autónoma y resolución de problemas técnicos donde se evalúan métricas y optimización de modelos.
-* `📁 evaluation/OOB_Error/`: Scripts en Python para el cálculo de la estimación *Out-Of-Bag*, demostrando la autovalidación interna de Random Forest sin requerir validación cruzada externa.
-* `📁 evaluation/Feature_Importance/`: Implementación práctica de métricas MDI (*Mean Decrease Impurity*) y *Permutation Importance* para mitigar la opacidad del modelo de "caja negra" mediante SHAP y ELI5.
 
-### 🏠 3. AA: Aprendizaje Autónomo (Investigación Avanzada y Redacción)
+### 🏠 3. [AA: Aprendizaje Autónomo (Investigación Avanzada y Redacción)](https://github.com/JuanCalopinoo/RandomForest/tree/8036820bf384160ceb073610eec8a085e473ec90/AA)
 Trabajo de investigación independiente dedicado al análisis literario y construcción del manuscrito para el libro editorial.
-* `📁 research/articles/`: Repositorio que almacena y organiza los 30 artículos científicos indexados analizados para el estado del arte.
-* `📁 latex/`: Archivos fuente (`.tex`, `.bib`) y figuras de la Sección 6.1 a la 6.4 del Capítulo 6 compilados en Overleaf.
 
 ---
 

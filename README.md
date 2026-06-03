@@ -32,7 +32,6 @@ El código, las tareas y la documentación se estructuran rigurosamente de acuer
 ### 🏛️ 1. [ACD: Aprendizaje en Contacto con el Docente (Clases y Laboratorios)](https://github.com/JuanCalopinoo/RandomForest/tree/8036820bf384160ceb073610eec8a085e473ec90/ACD)
 Desarrollo de las sesiones presenciales y guías asistidas orientadas a la fundamentación de algoritmos supervisados.
 
-
 ### 🔬 2. [APE: Aprendizaje Práctico-Experimental (Deberes y Optimización)](https://github.com/JuanCalopinoo/RandomForest/tree/8036820bf384160ceb073610eec8a085e473ec90/APE)
 Componente de experimentación autónoma y resolución de problemas técnicos donde se evalúan métricas y optimización de modelos.
 
@@ -41,8 +40,10 @@ Trabajo de investigación independiente dedicado al análisis literario y constr
 
 ---
 
-
+## 🛠️ Tecnologías y Documentación Científica
 * **Explicabilidad (XAI):** SHAP (*Shapley Additive Explanations*) y LIME.
-* **Documentación Científica:** LaTeX (Overleaf) para tipografía matemática y BibTeX para la gestión bibliográfica automatizada.
+* **Entorno de Redacción:** [Proyecto en Vivo en Overleaf](https://www.overleaf.com/read/ztrkmxgfkffb#f47222) para tipografía matemática y BibTeX para la gestión bibliográfica automatizada.
+* **Manuscrito Final:** [Libro_Version2_Juan_Calopino.pdf](https://github.com/JuanCalopinoo/RandomForest/blob/acb15fdf2916848441cf3eff09c1af0b86173a77/Libro_Version2_Juan_Calopino.pdf) (Documento PDF completo del capítulo).
 
 ---
+*Este proyecto forma parte del currículo avanzado de Inteligencia Artificial Clásica 2026.*

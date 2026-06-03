@@ -41,11 +41,8 @@ Trabajo de investigación independiente dedicado al análisis literario y constr
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
-* **Lenguaje base:** Python 3.13.0
-* **Librerías de ML:** Scikit-Learn, Pandas, NumPy, XGBoost, LightGBM.
+
 * **Explicabilidad (XAI):** SHAP (*Shapley Additive Explanations*) y LIME.
 * **Documentación Científica:** LaTeX (Overleaf) para tipografía matemática y BibTeX para la gestión bibliográfica automatizada.
 
 ---
-*Este proyecto forma parte del currículo avanzado de Inteligencia Artificial Clásica 2026.*
